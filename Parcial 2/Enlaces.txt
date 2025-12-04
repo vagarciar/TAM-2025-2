@@ -5,4 +5,4 @@ punto 2:
 https://www.kaggle.com/code/juliandavidmorales/parcial-2-tam-2025-2/edit
 
 Punto 3:
-https://www.kaggle.com/code/valeriagarciarodas/punto-3-doom/edit/run/283718052
+https://www.kaggle.com/code/disalazarp/doom-project
